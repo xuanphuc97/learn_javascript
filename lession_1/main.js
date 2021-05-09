@@ -8,3 +8,6 @@ errorMessage = 'Đây là message lỗi'
 console.log(message)
 console.warn(warnMessage)
 console.error(errorMessage)
+var a = 1
+console.log(a++)
+console.log(a)
